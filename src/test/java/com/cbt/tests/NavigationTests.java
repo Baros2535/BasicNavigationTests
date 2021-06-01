@@ -6,9 +6,9 @@ import org.openqa.selenium.WebDriver;
 
 public class NavigationTests {
     public static void main(String[] args) {
-       // testSafari();
-      // testChrome();
-     // testFirefox();
+       testSafari();
+      testChrome();
+     testFirefox();
     }
 
     private static void testFirefox() {
